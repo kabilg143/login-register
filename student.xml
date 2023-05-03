@@ -1,0 +1,38 @@
+<students>
+   <student>
+       
+      <name>naveen</name> 
+      <password>naveen123</password>
+      <email>naveen@gmail.com</email> 
+      <role>Editor</role> 
+   </student>
+
+   <student>
+      <name>parthipan</name> 
+      <password>parthipan123</password> 
+      <email>parthipan@gmail.com</email> 
+      <role>Subscriber</role> 
+   </student>
+
+   <student>
+      <name>virat</name> 
+      <password>virat123</password> 
+      <email>virat@gmail.com</email> 
+      <role>Author</role> 
+   </student>
+
+   <student>
+      <name>dhoni</name> 
+      <password>dhoni123</password> 
+      <email>doni@gmail.com</email> 
+      <role>contributor</role> 
+   </student>
+
+   <student>
+      <name>maxwell</name> 
+      <password>maxwell123</password> 
+      <email>maxwel@gmail.com</email> 
+      <role>Subscriber</role> 
+   </student>
+
+</students>
